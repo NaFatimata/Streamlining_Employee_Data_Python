@@ -7,9 +7,14 @@ SKILLS: Importing and Cleaning Data, Data Manipulation, Using DataFrames to read
 
 TECHNOLOGY: Python, Pandas 
 
-DATASETS: [office_addresses.csv](https://github.com/NaFatimata/Streamlining_Employee_Data_Python/files/9626228/office_addresses.csv)
-          [employee_information.xlsx](https://github.com/NaFatimata/Streamlining_Employee_Data_Python/files/9626229/employee_information.xlsx)
-          Employee roles (.JSON): {
+DATASETS: Office Addresses [office_addresses.csv](https://github.com/NaFatimata/Streamlining_Employee_Data_Python/files/9626228/office_addresses.csv), 
+          Employee Information [employee_information.xlsx](https://github.com/NaFatimata/Streamlining_Employee_Data_Python/files/9626229/employee_information.xlsx)
+       
+   
+   
+   Employee roles (.JSON): 
+   
+   {
   "A2R5H9":
   {
     "title": "CEO",
