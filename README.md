@@ -1,5 +1,11 @@
 # Streamlining_Employee_Data_Python
 
+
+![pic](https://user-images.githubusercontent.com/89815266/191765044-819c0176-dabc-42e2-a005-3ecc18e93e3b.png)
+
+
+
+
 In this project, I import employee and Human Resources data in CSV, Excel, and JSON formats. 
 I then merge all the data into a single DataFrame before cleaning it and exporting the results into a single CSV file. 
 
