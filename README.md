@@ -9,6 +9,8 @@
 In this project, I import employee and Human Resources data in CSV, Excel, and JSON formats. 
 I then merge all the data into a single DataFrame before cleaning it and exporting the results into a single CSV file. 
 
+CODE: https://github.com/NaFatimata/Streamlining_Employee_Data_Python/blob/main/Streamlining_Employee_Data.ipynb
+
 SKILLS: Importing and Cleaning Data, Data Manipulation, Using DataFrames to read and merge data from different sources
 
 TECHNOLOGY: Python, Pandas 
